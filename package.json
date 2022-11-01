@@ -1,7 +1,7 @@
 {
     "private": true,
     "scripts": {
-        "dev": "vite",
+        "dev": "vite --host",
         "build": "vite build"
     },
     "devDependencies": {
@@ -12,9 +12,10 @@
         "vite": "^3.0.0"
     },
     "dependencies": {
-        "bootstrap": "^4.6.1",
+        "@vitejs/plugin-vue": "^3.2.0",
+        "bootstrap": "^5.2.2",
         "bootstrap-vue": "^2.23.1",
-        "portal-vue": "^2.1.7",
-        "vue": "^2.6.12"
+        "vue": "^3.2.36",
+        "vue-loader": "^17.0.0"
     }
 }
