@@ -1,19 +1,35 @@
 {
+  "node_modules/bootstrap-icons/bootstrap-icons.svg": {
+    "file": "assets/bootstrap-icons.07040cdb.svg",
+    "src": "node_modules/bootstrap-icons/bootstrap-icons.svg"
+  },
+  "public/assets/images/image1.png": {
+    "file": "assets/image1.84448a51.png",
+    "src": "public/assets/images/image1.png"
+  },
+  "public/assets/images/image2.png": {
+    "file": "assets/image2.09066fdb.png",
+    "src": "public/assets/images/image2.png"
+  },
   "resources/css/app.css": {
     "file": "assets/app.7c3c19f8.js",
     "src": "resources/css/app.css",
     "isEntry": true
   },
   "resources/js/app.js": {
-    "file": "assets/app.5f9da8eb.js",
+    "file": "assets/app.6bd3169b.js",
     "src": "resources/js/app.js",
     "isEntry": true,
     "css": [
-      "assets/app.e72cbc7c.css"
+      "assets/app.91759510.css"
+    ],
+    "assets": [
+      "assets/image1.84448a51.png",
+      "assets/image2.09066fdb.png"
     ]
   },
   "resources/js/app.css": {
-    "file": "assets/app.e72cbc7c.css",
+    "file": "assets/app.91759510.css",
     "src": "resources/js/app.css"
   }
 }
